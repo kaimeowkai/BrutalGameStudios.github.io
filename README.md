@@ -1,4 +1,13 @@
 # BrutalGameStudios.github.io
+
+## BGS2026 Finds software and illustrated guide
+
+[Complete package ZIP](bgs2026/downloads/BGS2026-Finds-complete.zip) · [Open the live store](https://brutal-game-studios-neon.brutalmotorworks.chatgpt.site/finds/) · [Illustrated user guide](bgs2026/docs/USER_GUIDE.md) · [Windows preview EXE](bgs2026/downloads/BGS2026-Finds-Preview.exe) · [Source and build instructions](bgs2026/docs/DEVELOPMENT.md) · [Dependencies and prerequisites](bgs2026/docs/DEPENDENCIES.md)
+
+The `bgs2026/` folder contains the first-party Finds source, runnable local preview, C# program source, screenshots, free promotion plan and official third-party software links. The EXE is an unsigned local snapshot viewer; it does not grant Amazon API access or update the live website. Use GitHub's **Download raw file** control for the EXE and verify its [SHA-256](bgs2026/downloads/SHA256SUMS.txt).
+
+## Existing studio policy material
+
 Privacy-policy
 NEON BLASTER: PRE-REGISTRATION PROMOTION TERMS AND CONDITIONS
 
