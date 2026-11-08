@@ -1,0 +1,1 @@
+﻿{"passed":true,"checkCount":9,"resourceCount":42,"checks":["embedded Finds page","embedded illustrated guide","embedded article","HEAD has no body","missing resource returns 404","encoded traversal rejected","writes rejected","unexpected Host rejected","empty authorized-photo catalog"]}
