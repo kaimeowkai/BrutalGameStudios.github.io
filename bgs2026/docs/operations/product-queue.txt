@@ -1,0 +1,69 @@
+BGS2026 FINDS — PRODUCT PREPARATION QUEUE
+Prepared November 7, 2026. No new inventory, orders, subscriptions or spending.
+
+CURRENT MODEL
+The visitor buys from the seller shown on Amazon. BGS2026 publishes buying
+guides and may earn an Associates commission. This queue is not wholesale
+stock, a sales forecast or a Seller Central offer upload.
+
+PRIORITY 1 — EXISTING EXACT PRODUCT LINKS
+These three ASIN links were already on the site. New full guides connect to
+them. Their product-photo status remains pending authorized Amazon access.
+Recheck exact variant, title and offer before importing an API record.
+
+1. Dremel 709-02 110-piece accessory kit
+   ASIN: B00OAXKJO0 | Category: Make & tinker
+   Guide: /finds/guides/rotary-tool-accessories/
+   Source: https://shop.dremel.com/products/dremel-709-02-accessory-kit
+   Confidence: manufacturer supports the kit identity and 110-piece contents;
+   current seller, price, delivery and photograph access are not established.
+
+2. My Arcade Atari Nano Player Pro
+   ASIN: B0BSZW6QK6 | Category: Retro play
+   Guide: /finds/guides/retro-gaming-gifts/
+   Source: https://atari.com/products/atari-50-nano-player-pro
+   Confidence: manufacturer supports 75 built-in games, 2.4-inch display and
+   battery/USB-C power description. Exact Amazon offer and image access pending.
+
+3. Amazon Fire TV Stick 4K Select
+   ASIN: B0C6W3D4RM | Category: Streaming
+   Guide: /finds/guides/streaming-device-checklist/
+   Source: https://developer.amazon.com/docs/device-specs/device-specifications-comparison-table.html
+   Confidence: official model documentation; Vega OS distinction included.
+   Verify required apps for the exact device and country. Image access pending.
+
+PRIORITY 2 — CATEGORY LEADS, NOT VERIFIED PRODUCTS
+Do not create ASINs or publish product cards from the names below. Each needs
+an actual model, exact pack/variant and lawful photograph before promotion.
+These types were selected to complement the new guides, not proven demand.
+
+Desk & gaming: cable clips; reusable cable ties; desk mat; controller stand;
+headphone stand; small desktop organizer.
+Make & tinker: compatible sanding refill; compatible polishing refill;
+small-parts organizer; project parts tray.
+Home & gifts: drawer organizer; remote-control organizer; hobby storage box;
+small entryway tray; reusable storage labels.
+Pet accessories (nonfood): feeding-area mat; washable bed cover; supply bin;
+grooming-tool organizer; ordinary pet blanket.
+Retro play: larger-screen licensed retro player; display stand matched to
+the exact device. Streaming: cable organizer for an existing TV setup.
+
+REQUIRED FOR EACH EXACT-PRODUCT ROW
+- Exact manufacturer model, UPC where verified, ASIN and size/color/pack count.
+- Official feature source and date checked; suitable use and key limitation.
+- Authorized photo source/reference, permission record, alt text and freshness.
+- Current Amazon destination carrying brutalgamestu-20; no invented price,
+  rating, discount, stock quantity, delivery date or personal testing claim.
+- Category, concise original summary and appropriate guide destination.
+- Remove or hold entries with missing identity, permission or valid photographs.
+
+NEXT AMAZON STEP
+Support inquiry is confirmed sent. Wait for the actual eligibility response;
+no approval or exception has been promised. If access becomes available,
+implement the authorized retrieval/refresh connection and validate a small
+real sample before expanding to hundreds of photographed products.
+
+The catalog currently contains zero imported photo records. Existing three
+editorial product selections use graphic panels, not product photographs.
+The previously prepared catalog importer validates records; it does not
+already retrieve images or provide a live API synchronization service.
