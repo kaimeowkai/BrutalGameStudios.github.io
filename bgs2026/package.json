@@ -1,0 +1,15 @@
+{
+  "name": "bgs2026-finds-portable",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node --test tests/portable.test.mjs"
+  },
+  "description": "Portable source and illustrated operating guide for BGS2026 Finds; no npm dependencies."
+}

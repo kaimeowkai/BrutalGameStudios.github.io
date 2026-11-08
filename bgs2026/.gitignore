@@ -1,0 +1,8 @@
+node_modules/
+.windows-build/
+*.tmp
+*.log
+.env
+.env.*
+!*.example
+/windows-self-test.json
